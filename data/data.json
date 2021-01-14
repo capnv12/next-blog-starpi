@@ -51,10 +51,10 @@
       "status": "published",
       "slug": "the-internet-s-own-boy",
       "category": {
-        "id": 5
+        "id": "5feb0a04ab09b78173c39f7c"
       },
       "author": {
-        "id": 1
+        "id": "5feb0a05ab09b78173c39f87"
       },
       "description": "Follow the story of Aaron Swartz, the boy who could change the world",
       "image": null
@@ -66,10 +66,10 @@
       "status": "published",
       "slug": "what-s-inside-a-black-hole",
       "category": {
-        "id": 1
+        "id": "5feb0a04ab09b78173c39f7d"
       },
       "author": {
-        "id": 2
+        "id": "5feb0a05ab09b78173c39f88"
       },
       "description": "Maybe the answer is in this article, or not...",
       "image": null
@@ -81,10 +81,10 @@
       "status": "published",
       "slug": "this-shrimp-is-awesome",
       "category": {
-        "id": 4
+        "id": "5feb0a04ab09b78173c39f7f"
       },
       "author": {
-        "id": 1
+        "id": "5feb0a05ab09b78173c39f87"
       },
       "description": "Mantis shrimps, or stomatopods, are marine crustaceans of the order Stomatopoda. Some species have specialised calcified \"clubs\" that can strike with great power, while others have sharp forelimbs used to capture prey.",
       "image": null
@@ -96,10 +96,10 @@
       "status": "published",
       "slug": "a-bug-is-becoming-a-meme-on-the-internet",
       "category": {
-        "id": 2
+        "id": "5feb0a04ab09b78173c39f7e"
       },
       "author": {
-        "id": 2
+        "id": "5feb0a05ab09b78173c39f88"
       },
       "description": "How a bug on MySQL is becoming a meme on the internet",
       "image": null
@@ -111,10 +111,10 @@
       "status": "published",
       "slug": "beautiful-picture",
       "category": {
-        "id": 4
+        "id": "5feb0a04ab09b78173c39f7f"
       },
       "author": {
-        "id": 2
+        "id": "5feb0a05ab09b78173c39f88"
       },
       "description": "Description of a beautiful picture",
       "image": null
@@ -126,22 +126,22 @@
       "status": "published",
       "slug": "we-love-pizza",
       "category": {
-        "id": 3
+        "id": "5feb0a04ab09b78173c39f7b"
       },
       "author": {
-        "id": 1
+        "id": "5feb0a05ab09b78173c39f87"
       },
       "description": "Pizza is so delicious, specially four cheese pizza",
       "image": null
     }
   ],
   "global": {
-    "siteName":"Strapi Blog",
-    "defaultSeo":{
-      "metaTitle":"Page",
-      "metaDescription":"A blog made with Strapi",
-      "shareImage":null
+    "siteName": "Strapi Blog",
+    "defaultSeo": {
+      "metaTitle": "Page",
+      "metaDescription": "A blog made with Strapi",
+      "shareImage": null
     },
-    "favicon":null
+    "favicon": null
   }
 }
