@@ -30,7 +30,7 @@ module.exports = ({ env }) => ({
         port: env.int("DATABASE_PORT", 27017),
         database: env("DATABASE_NAME", "next-blog"),
         username: env("DATABASE_USERNAME", "capnv12"),
-        password: env("DATABASE_PASSWORD", "6PMClnnpX3soomav"),
+        password: env("DATABASE_PASSWORD", "OQ1N4C6JxQlbyb34"),
       },
       options: {
         authenticationDatabase: env("AUTHENTICATION_DATABASE", null),
