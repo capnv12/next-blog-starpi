@@ -25,12 +25,12 @@ module.exports = ({ env }) => ({
     default: {
       connector: "mongoose",
       settings: {
-        host: env("DATABASE_HOST", "cluster0.6o7fr.mongodb.net"),
+        host: env("DATABASE_HOST"),
         srv: env.bool("DATABASE_SRV", true),
         port: env.int("DATABASE_PORT", 27017),
-        database: env("DATABASE_NAME", "next-blog"),
-        username: env("DATABASE_USERNAME", "capnv12"),
-        password: env("DATABASE_PASSWORD", "Iz82nP2YKZAnwy9u"),
+        database: env("DATABASE_NAME"),
+        username: env("DATABASE_USERNAME"),
+        password: env("DATABASE_PASSWORD"),
       },
       options: {
         authenticationDatabase: env("AUTHENTICATION_DATABASE", null),
